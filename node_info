@@ -1,7 +1,7 @@
-slv_node_runs_runs=no
+slv_node_runs_runs=yes
 slv_node_work_naid=node8654
-slv_node_work_name=fv-az183-108
-slv_node_ipv4_eth0=10.1.46.2
-slv_node_ipv4_ztc2=10.88.90.64
-slv_node_star_time=1677181739
+slv_node_work_name=fv-az232-517
+slv_node_ipv4_eth0=10.1.0.15
+slv_node_ipv4_ztc2=10.88.90.68
+slv_node_star_time=1677191326
 slv_node_work_disk=/home/runner/work/hgveux7y/hgveux7y
